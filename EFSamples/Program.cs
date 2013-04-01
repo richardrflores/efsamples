@@ -10,12 +10,16 @@ namespace EFSamples
         static void Main(string[] args)
         {
             //GettingStarted.ShowProducts();
-            Queries.FindEntityUsingPK();
-            Queries.RunLinqExample1();
-            Queries.RunLinqExample2();
-            Queries.RunRawSQL();
-            Queries.RunESQLExample();
-            Queries.RunESQLBuilderExample();
+            //Queries.FindEntityUsingPk();
+            //Queries.RunLinqExample1();
+            //Queries.RunLinqExample2();
+            //Queries.RunRawSQL();
+            //Queries.RunESQLExample();
+            //Queries.RunESQLBuilderExample();
+            //StoredProcedures.GetEmployeeManagers();
+            //Functions.GetDaysfromOrders();
+            //LoadingRelatedEntities.ShowEagerLoading();
+            LoadingRelatedEntities.ShowEagerLoadingMultipleLevels();
 
             Console.ReadKey();
         }

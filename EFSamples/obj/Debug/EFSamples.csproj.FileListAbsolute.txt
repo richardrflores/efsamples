@@ -6,3 +6,11 @@ c:\users\richard\documents\visual studio 2012\Projects\EFSamples\EFSamples\bin\D
 c:\users\richard\documents\visual studio 2012\Projects\EFSamples\EFSamples\obj\Debug\EFSamples.csprojResolveAssemblyReference.cache
 c:\users\richard\documents\visual studio 2012\Projects\EFSamples\EFSamples\obj\Debug\EFSamples.exe
 c:\users\richard\documents\visual studio 2012\Projects\EFSamples\EFSamples\obj\Debug\EFSamples.pdb
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\bin\Debug\EFSamples.exe.config
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\obj\Debug\EFSamples.exe
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\obj\Debug\EFSamples.pdb
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\bin\Debug\EFSamples.exe
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\bin\Debug\EFSamples.pdb
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\bin\Debug\EntityFramework.dll
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\bin\Debug\EntityFramework.xml
+P:\My Documents\Visual Studio 2012\Projects\efsamples\EFSamples\obj\Debug\EFSamples.csprojResolveAssemblyReference.cache

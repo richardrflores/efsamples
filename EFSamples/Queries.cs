@@ -11,7 +11,7 @@ namespace EFSamples
 {
     public static class Queries
     {
-        public static void FindEntityUsingPK()
+        public static void FindEntityUsingPk()
         {
             System.Console.WriteLine("\nFinding Identity with PK");
 
