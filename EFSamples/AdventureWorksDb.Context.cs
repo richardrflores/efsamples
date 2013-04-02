@@ -21,6 +21,7 @@ namespace EFSamples
         public AdventureWorksEntities()
             : base("name=AdventureWorksEntities")
         {
+            //Configuration.LazyLoadingEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

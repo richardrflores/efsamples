@@ -9,7 +9,7 @@ namespace EFSamples
     {
         static void Main(string[] args)
         {
-            //GettingStarted.ShowProducts();
+            GettingStarted.ShowProducts();
             //Queries.FindEntityUsingPk();
             //Queries.RunLinqExample1();
             //Queries.RunLinqExample2();
@@ -19,7 +19,10 @@ namespace EFSamples
             //StoredProcedures.GetEmployeeManagers();
             //Functions.GetDaysfromOrders();
             //LoadingRelatedEntities.ShowEagerLoading();
-            LoadingRelatedEntities.ShowEagerLoadingMultipleLevels();
+            //LoadingRelatedEntities.ShowEagerLoadingMultipleLevels();
+            //LoadingRelatedEntities.ShowLazyLoading();
+            //LoadingRelatedEntities.ShowExplicitLoading();
+            //LoadingRelatedEntities.ShowExplicitLoadingWithFilter();
 
             Console.ReadKey();
         }
